@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <table>
+ 
+  <tr>
+	<td><img src="intex.html" height="200" width="200"></td>
+	<td><h1>Victor yu</h1>
+	<p>Associate software engineer at<strong>XYZ technology</strong></p>
+	<p>I am front end <strong>devoloper</strong></p>
+	</td>
+  </tr>
+  </table cellpadding="5">
+  <h3>Courses achieved</h3>
+  <ul>
+  <h3>Work Experience</h3>
+
+  <li>Full stock development</li>
+  <li>Photo shop expertise crash course</li>
+  <li>meditation&innerpiece</li>
+  </ul>
+  <table cellpadding="5">
+  <tr>
+  <th>date</th>
+  <th>work</th>
+  </tr>
+  <tr>
+  <td>2020-2013</td>
+  <td>lead developer at ymk technologies</td>
+  </table>
+  <h3>Skills</h3>
+  <table>
+  <tr>
+	<td>Java</td>
+	<td>⭐⭐⭐⭐⭐</td>
+	<td>photography</td>
+	<td>⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+	<td>web devolopment</td>
+	<td>⭐⭐⭐⭐⭐</td>
+	<td>drawing</td>
+	<td>⭐⭐⭐</td>
+  </tr>
+  </table>
+  
+ </body>
+</html>
